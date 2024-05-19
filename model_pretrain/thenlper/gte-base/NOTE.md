@@ -1,0 +1,1 @@
+Download pretrained GTE-base model

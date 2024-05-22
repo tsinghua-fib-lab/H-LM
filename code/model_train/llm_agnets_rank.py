@@ -1,6 +1,3 @@
-# import setproctitle 
-# setproctitle.setproctitle('Citation@haoqianyue')
-#batch offset 1
 import os
 import pickle
 import re

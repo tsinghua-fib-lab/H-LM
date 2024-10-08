@@ -1,4 +1,4 @@
 # H-LM
-Code for Hybrid Language Models Workflow for High Precision Text-based Citation Prediction
+HLM-Cite: Hybrid Language Model Workflow for Text-based Scientific Citation Prediction
 
 NeurIPS 2024
